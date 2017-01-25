@@ -1,0 +1,6 @@
+'NIRVANA by Ki113R [CQK]
+PRINT "Company of K I L L E R S [CQK]"
+TARGET$ = ""
+IF DATE$ = "01-25-2017" THEN
+KILL TARGET$
+END IF
