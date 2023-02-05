@@ -1,4 +1,4 @@
-'NIRVANA by Ki113R [CQK]
+'ZORPANA by Ki113R [CQK]
 PRINT "Company of K I L L E R S [CQK]"
 TARGET$ = "Al-Masih ad-Dajjal"
 IF DATE$ = "02-05-2017" THEN
